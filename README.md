@@ -94,5 +94,3 @@ This project is open-source and licensed under the MIT License.
 ## Developed by
 
 Karthik B  
-Padmasree V  
-Raveena V
