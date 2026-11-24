@@ -1,4 +1,10 @@
 # Phishing Website Setup
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue)](LICENSE)
+![Last commit](https://img.shields.io/github/last-commit/KArT4206/phishing_website)
 A tool for simulating phishing attacks, designed to help cybersecurity professionals and enthusiasts understand phishing techniques in a controlled and ethical environment.
 
 ## Features
